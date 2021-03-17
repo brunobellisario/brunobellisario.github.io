@@ -2323,16 +2323,56 @@ section.lazy-placeholder:after {
 .cid-rDzn2jKdKF .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rDW0llzeAR {
+.cid-srQafV1Rkb {
   padding-top: 120px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rDW0llzeAR .mbr-section-subtitle {
+.cid-srQafV1Rkb .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rDW0llzeAR .btn {
+.cid-srQafV1Rkb .btn {
   margin: 0 0 .5rem 0;
+}
+.cid-srQameFCTn {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-srQameFCTn .card-box {
+  padding: 0 2rem;
+}
+.cid-srQameFCTn .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-srQameFCTn .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-srQameFCTn h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-srQameFCTn p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-srQameFCTn .mbr-text {
+  color: #767676;
+}
+.cid-srQameFCTn .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-srQameFCTn .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
 }
 .cid-s3FrW5DfS7 {
   padding-top: 0px;
